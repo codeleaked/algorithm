@@ -1,65 +1,69 @@
 package com.codeleaked.algorithm.validparentheses;
 
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
 
 import java.util.Arrays;
-import java.util.List;
+import java.util.Collection;
 
+import static com.google.common.truth.Truth.assertThat;
+
+@RunWith(Parameterized.class)
 public class Evaluation {
 
     private Solution solution;
+
+    private String expr;
+
+    private boolean expected;
 
     @Before
     public void setUp() {
         solution = new Solution();
     }
 
-    @Test
-    public void shouldReturnValid() {
-        List<String> testCases = Arrays.asList(
-                "",
-                "()",
-                "[]",
-                "{}",
-                "()[]{}",
-                "{([])}",
-                "[()(){}{}][]",
-                "((([(){}()])))"
-        );
+    @Parameterized.Parameters
+    public static Collection<Object[]> testCases() {
+        return Arrays.asList(new Object[][]{
+                {"", true},
+                {"()", true},
+                {"{}", true},
+                {"()[]{}", true},
+                {"{([])}", true},
+                {"[()(){}{}][]", true},
+                {"((([(){}()])))", true},
+                { bigValidParentheses(), true },
 
-        for (String testCase: testCases) {
-            Assert.assertTrue(solution.isValid(testCase));
-        }
+                {null, false},
+                {")(", false},
+                {"][", false},
+                {"}{", false},
+                {"(]", false},
+                {"{(})", false},
+                {"((()])", false},
+                {"()[()()(])", false},
+                {"{}[()({])[]]", false}
+        });
+    }
+
+    public Evaluation(String expr, boolean expected) {
+        this.expr = expr;
+        this.expected = expected;
     }
 
     @Test
-    public void shouldReturnInvalid() {
-        List<String> testCases = Arrays.asList(
-                null,
-                ")(",
-                "][",
-                "}{",
-                "(]",
-                "{(})",
-                "((()])",
-                "()[()()(])",
-                "{}[()({])[]]"
-        );
-
-        for (String testCase: testCases) {
-            Assert.assertFalse(solution.isValid(testCase));
-        }
+    public void test() {
+        assertThat(solution.isValid(expr)).isEqualTo(expected);
     }
 
-    @Test
-    public void shouldWorkWithBigTests() {
-        StringBuffer buffer = new StringBuffer();
+    private static String bigValidParentheses() {
+        StringBuilder buffer = new StringBuilder();
         for (int i = 0; i < 10000000; ++i) {
             buffer.append("()[]");
         }
-        Assert.assertTrue(solution.isValid(buffer.toString()));
+        return buffer.toString();
     }
 
 }
