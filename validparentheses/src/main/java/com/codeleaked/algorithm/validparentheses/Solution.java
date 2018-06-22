@@ -1,8 +1,10 @@
+package com.codeleaked.algorithm.validparentheses;
+
 import java.util.Stack;
 
-class Solution extends Question {
+class Solution {
 
-    static boolean isValid(String s) {
+    boolean isValid(String s) {
         if (s == null) {
             return false;
         }

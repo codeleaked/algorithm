@@ -1,10 +1,20 @@
+package com.codeleaked.algorithm.validparentheses;
+
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
 
 public class Evaluation {
+
+    private Solution solution;
+
+    @Before
+    public void setUp() {
+        solution = new Practice();
+    }
 
     @Test
     public void shouldReturnValid() {
@@ -19,7 +29,7 @@ public class Evaluation {
         );
 
         for (String testCase: testCases) {
-            Assert.assertTrue(Solution.isValid(testCase));
+            Assert.assertTrue(solution.isValid(testCase));
         }
     }
 
@@ -35,8 +45,17 @@ public class Evaluation {
         );
 
         for (String testCase: testCases) {
-            Assert.assertFalse(Solution.isValid(testCase));
+            Assert.assertFalse(solution.isValid(testCase));
         }
+    }
+
+    @Test
+    public void shouldWorkWithBigTests() {
+        StringBuffer buffer = new StringBuffer();
+        for (int i = 0; i < 10000000; ++i) {
+            buffer.append("()[]");
+        }
+        Assert.assertTrue(solution.isValid(buffer.toString()));
     }
 
 }
