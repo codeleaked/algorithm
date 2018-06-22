@@ -13,7 +13,7 @@ public class Evaluation {
 
     @Before
     public void setUp() {
-        solution = new Practice();
+        solution = new Solution();
     }
 
     @Test
@@ -22,10 +22,11 @@ public class Evaluation {
                 "",
                 "()",
                 "[]",
-                "()[]",
-                "([])",
-                "[()()]",
-                "((([()()])))"
+                "{}",
+                "()[]{}",
+                "{([])}",
+                "[()(){}{}][]",
+                "((([(){}()])))"
         );
 
         for (String testCase: testCases) {
@@ -39,9 +40,12 @@ public class Evaluation {
                 null,
                 ")(",
                 "][",
+                "}{",
                 "(]",
+                "{(})",
                 "((()])",
-                "()[()()(])"
+                "()[()()(])",
+                "{}[()({])[]]"
         );
 
         for (String testCase: testCases) {
