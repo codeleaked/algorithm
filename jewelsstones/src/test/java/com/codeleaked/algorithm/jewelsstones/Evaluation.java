@@ -23,7 +23,7 @@ public class Evaluation {
 
     @Before
     public void setUp() {
-        solution = new Practice();
+        solution = new Solution();
     }
 
     @Parameterized.Parameters(name = "{0}, {1} -> {2}")
