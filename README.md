@@ -1,4 +1,5 @@
 Problems
 --------
-- [Valid parentheses](validparentheses)
-- [Jewels and stones](jewelsstones)
+- [Valid parentheses](parentheses)
+- [Jewels and stones](jewels)
+- [Max increase to keep city skyline](skyline)
