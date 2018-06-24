@@ -27,6 +27,7 @@
     <module>parentheses</module>
     <module>skyline</module>
     <module>tinyurl</module>
+    <module>morse</module>
   </modules>
 
   <dependencies>
