@@ -26,6 +26,7 @@
     <module>jewels</module>
     <module>parentheses</module>
     <module>skyline</module>
+    <module>tinyurl</module>
   </modules>
 
   <dependencies>
