@@ -6,6 +6,7 @@ Problems
 - [Unique Morse code words](morse)
 - [Peak index in a mountain array](mountainpeak)
 - [Flipping an image](flippingimage)
+- [Hamming distance](hammingdistance)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
