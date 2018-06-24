@@ -30,6 +30,7 @@
     <module>morse</module>
     <module>maxbinarytree</module>
     <module>mountainpeak</module>
+    <module>flippingimage</module>
   </modules>
 
   <dependencies>

@@ -5,6 +5,7 @@ Problems
 - [Jewels and stones](jewels)
 - [Unique Morse code words](morse)
 - [Peak index in a mountain array](mountainpeak)
+- [Flipping an image](flippingimage)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
