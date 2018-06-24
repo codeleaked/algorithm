@@ -4,6 +4,7 @@ Problems
 - [Valid parentheses](parentheses)
 - [Jewels and stones](jewels)
 - [Unique Morse code words](morse)
+- [Peak index in a mountain array](mountainpeak)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)

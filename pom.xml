@@ -29,6 +29,7 @@
     <module>tinyurl</module>
     <module>morse</module>
     <module>maxbinarytree</module>
+    <module>mountainpeak</module>
   </modules>
 
   <dependencies>
