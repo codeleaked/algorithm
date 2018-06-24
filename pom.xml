@@ -32,6 +32,7 @@
     <module>mountainpeak</module>
     <module>flippingimage</module>
     <module>hammingdistance</module>
+    <module>routecircle</module>
   </modules>
 
   <dependencies>

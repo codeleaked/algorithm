@@ -7,6 +7,7 @@ Problems
 - [Peak index in a mountain array](mountainpeak)
 - [Flipping an image](flippingimage)
 - [Hamming distance](hammingdistance)
+- [Judge route circle](routecircle)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
