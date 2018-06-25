@@ -33,6 +33,7 @@
     <module>flippingimage</module>
     <module>hammingdistance</module>
     <module>routecircle</module>
+    <module>binarytreepruning</module>
   </modules>
 
   <dependencies>

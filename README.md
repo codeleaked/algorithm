@@ -13,5 +13,6 @@ Problems
 - [Maximum Binary Tree](maxbinarytree)
 - [Max increase to keep city skyline](skyline)
 - [Encode and decode TinyURL](tinyurl)
+- [Binary tree pruning](binarytreepruning)
 
 **Hard**
