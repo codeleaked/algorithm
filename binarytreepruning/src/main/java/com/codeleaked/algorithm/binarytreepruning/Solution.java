@@ -1,5 +1,7 @@
 package com.codeleaked.algorithm.binarytreepruning;
 
+import com.codeleaked.algorithm.common.tree.TreeNode;
+
 public class Solution {
 
     TreeNode pruneTree(TreeNode root) {

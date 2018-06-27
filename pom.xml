@@ -34,6 +34,8 @@
     <module>hammingdistance</module>
     <module>routecircle</module>
     <module>binarytreepruning</module>
+    <module>mergetrees</module>
+    <module>common</module>
   </modules>
 
   <dependencies>
