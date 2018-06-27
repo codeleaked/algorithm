@@ -8,6 +8,7 @@ Problems
 - [Flipping an image](flippingimage)
 - [Hamming distance](hammingdistance)
 - [Judge route circle](routecircle)
+- [Merge two binary trees](mergetrees)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
