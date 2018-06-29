@@ -36,6 +36,7 @@
     <module>binarytreepruning</module>
     <module>mergetrees</module>
     <module>common</module>
+    <module>allpaths</module>
   </modules>
 
   <dependencies>

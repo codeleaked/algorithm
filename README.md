@@ -15,5 +15,6 @@ Problems
 - [Max increase to keep city skyline](skyline)
 - [Encode and decode TinyURL](tinyurl)
 - [Binary tree pruning](binarytreepruning)
+- [All paths from source to target](allpaths)
 
 **Hard**
