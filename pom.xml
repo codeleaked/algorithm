@@ -37,6 +37,9 @@
     <module>mergetrees</module>
     <module>common</module>
     <module>allpaths</module>
+    <module>selfdividing</module>
+    <module>transposematrix</module>
+    <module>matrixnearestdistance</module>
   </modules>
 
   <dependencies>

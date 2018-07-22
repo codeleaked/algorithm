@@ -16,5 +16,6 @@ Problems
 - [Encode and decode TinyURL](tinyurl)
 - [Binary tree pruning](binarytreepruning)
 - [All paths from source to target](allpaths)
+- [01 matrix](matrixnearestdistance)
 
 **Hard**

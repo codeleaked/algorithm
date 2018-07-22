@@ -7,7 +7,7 @@ public class Solution {
         for (int[] row: A) {
             for (int i = 0; i < (num + 1) / 2; ++i) {
                 int tmp = 1 - row[i];
-                row[i ] = 1 - row[num - i - 1];
+                row[i] = 1 - row[num - i - 1];
                 row[num - i - 1] = tmp;
             }
         }
