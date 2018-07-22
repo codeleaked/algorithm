@@ -12,6 +12,7 @@ Problems
 - [Unique string](uniquestring)
 - [Permutation](permutation)
 - [String compression](stringcompression)
+- [1-bit and 2-bit characters](onebitcharacters)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)

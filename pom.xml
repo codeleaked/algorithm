@@ -43,6 +43,7 @@
     <module>uniquestring</module>
     <module>permutation</module>
     <module>stringcompression</module>
+    <module>onebitcharacters</module>
   </modules>
 
   <dependencies>
