@@ -40,6 +40,8 @@
     <module>selfdividing</module>
     <module>transposematrix</module>
     <module>matrixnearestdistance</module>
+    <module>uniquestring</module>
+    <module>permutation</module>
   </modules>
 
   <dependencies>

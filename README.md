@@ -9,6 +9,8 @@ Problems
 - [Hamming distance](hammingdistance)
 - [Judge route circle](routecircle)
 - [Merge two binary trees](mergetrees)
+- [Unique string](uniquestring)
+- [Permutation](permutation)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
