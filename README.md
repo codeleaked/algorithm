@@ -11,6 +11,7 @@ Problems
 - [Merge two binary trees](mergetrees)
 - [Unique string](uniquestring)
 - [Permutation](permutation)
+- [String compression](stringcompression)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)

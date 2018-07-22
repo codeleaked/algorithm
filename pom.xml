@@ -42,6 +42,7 @@
     <module>matrixnearestdistance</module>
     <module>uniquestring</module>
     <module>permutation</module>
+    <module>stringcompression</module>
   </modules>
 
   <dependencies>

@@ -9,7 +9,6 @@ import java.util.Arrays;
 import java.util.Collection;
 
 import static com.google.common.truth.Truth.assertThat;
-import static org.junit.Assert.*;
 
 @RunWith(Parameterized.class)
 public class Evaluation {
