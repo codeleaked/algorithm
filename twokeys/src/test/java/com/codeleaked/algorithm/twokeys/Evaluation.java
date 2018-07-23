@@ -1,4 +1,4 @@
-package com.codeleaked.algorithm.uniquestring;
+package com.codeleaked.algorithm.twokeys;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -15,9 +15,9 @@ public class Evaluation {
 
     private Solution solution;
 
-    private String s;
+    private int num;
 
-    private boolean expected;
+    private int expected;
 
     @Before
     public void setUp() {
@@ -27,23 +27,19 @@ public class Evaluation {
     @Parameterized.Parameters
     public static Collection<Object[]> testCases() {
         return Arrays.asList(new Object[][]{
-                {"abc", true},
-                {"acdc", false},
-                {"compass", false},
-                {"unique", false},
-                {"university", false},
-                {"player", true}
+                {3, 3},
+                {3, 3}
         });
     }
 
-    public Evaluation(String s, boolean expected) {
-        this.s = s;
+    public Evaluation(int num, int expected) {
+        this.num = num;
         this.expected = expected;
     }
 
     @Test
     public void test() {
-        assertThat(solution.isUnique(s)).isEqualTo(expected);
+        assertThat(solution.minSteps(num)).isEqualTo(expected);
     }
 
 }

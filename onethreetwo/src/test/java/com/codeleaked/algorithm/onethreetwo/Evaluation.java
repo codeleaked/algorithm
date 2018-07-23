@@ -1,4 +1,4 @@
-package com.codeleaked.algorithm.uniquestring;
+package com.codeleaked.algorithm.onethreetwo;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -15,7 +15,7 @@ public class Evaluation {
 
     private Solution solution;
 
-    private String s;
+    private int[] nums;
 
     private boolean expected;
 
@@ -27,23 +27,20 @@ public class Evaluation {
     @Parameterized.Parameters
     public static Collection<Object[]> testCases() {
         return Arrays.asList(new Object[][]{
-                {"abc", true},
-                {"acdc", false},
-                {"compass", false},
-                {"unique", false},
-                {"university", false},
-                {"player", true}
+                {new int[]{1, 2, 3, 4}, false},
+                {new int[]{3, 1, 4, 2}, true},
+                {new int[]{-1, 3, 2, 0}, true}
         });
     }
 
-    public Evaluation(String s, boolean expected) {
-        this.s = s;
+    public Evaluation(int[] nums, boolean expected) {
+        this.nums = nums;
         this.expected = expected;
     }
 
     @Test
     public void test() {
-        assertThat(solution.isUnique(s)).isEqualTo(expected);
+        assertThat(solution.find132pattern(nums)).isEqualTo(expected);
     }
 
 }

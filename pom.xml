@@ -44,6 +44,8 @@
     <module>permutation</module>
     <module>stringcompression</module>
     <module>onebitcharacters</module>
+    <module>onethreetwo</module>
+    <module>twokeys</module>
   </modules>
 
   <dependencies>
