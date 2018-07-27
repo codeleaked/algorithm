@@ -22,5 +22,6 @@ Problems
 - [All paths from source to target](allpaths)
 - [01 matrix](matrixnearestdistance)
 - [2-key keyboard](twokeys)
+- [Kth smallest element in a sorted matrix](sortedmatrix)
 
 **Hard**

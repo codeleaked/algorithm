@@ -46,6 +46,8 @@
     <module>onebitcharacters</module>
     <module>onethreetwo</module>
     <module>twokeys</module>
+    <module>threesum</module>
+    <module>sortedmatrix</module>
   </modules>
 
   <dependencies>
