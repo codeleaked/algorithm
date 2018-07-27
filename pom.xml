@@ -48,6 +48,7 @@
     <module>twokeys</module>
     <module>threesum</module>
     <module>sortedmatrix</module>
+    <module>oneeditdistance</module>
   </modules>
 
   <dependencies>
