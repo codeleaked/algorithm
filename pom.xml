@@ -50,6 +50,7 @@
     <module>sortedmatrix</module>
     <module>oneeditdistance</module>
     <module>networkdelay</module>
+    <module>rangemodule</module>
   </modules>
 
   <dependencies>

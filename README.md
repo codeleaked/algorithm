@@ -27,3 +27,4 @@ Problems
 - [Network delay time](networkdelay)
 
 **Hard**
+- [Range module](rangemodule)
