@@ -25,6 +25,7 @@ Problems
 - [Kth smallest element in a sorted matrix](sortedmatrix)
 - [One-edit distance](oneeditdistance)
 - [Network delay time](networkdelay)
+- [Zero matrix](zeromatrix)
 
 **Hard**
 - [Range module](rangemodule)

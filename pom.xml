@@ -53,6 +53,7 @@
     <module>rangemodule</module>
     <module>wordladder</module>
     <module>slidingwindow</module>
+    <module>zeromatrix</module>
   </modules>
 
   <dependencies>
