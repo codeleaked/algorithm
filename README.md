@@ -29,3 +29,4 @@ Problems
 **Hard**
 - [Range module](rangemodule)
 - [Word ladder](wordladder)
+- [Sliding window maximum](slidingwindow)

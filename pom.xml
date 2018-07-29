@@ -52,6 +52,7 @@
     <module>networkdelay</module>
     <module>rangemodule</module>
     <module>wordladder</module>
+    <module>slidingwindow</module>
   </modules>
 
   <dependencies>
