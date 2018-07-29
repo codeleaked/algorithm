@@ -49,6 +49,7 @@
     <module>threesum</module>
     <module>sortedmatrix</module>
     <module>oneeditdistance</module>
+    <module>networkdelay</module>
   </modules>
 
   <dependencies>
