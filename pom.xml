@@ -51,6 +51,7 @@
     <module>oneeditdistance</module>
     <module>networkdelay</module>
     <module>rangemodule</module>
+    <module>wordladder</module>
   </modules>
 
   <dependencies>
