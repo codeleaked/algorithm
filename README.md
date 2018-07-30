@@ -13,6 +13,7 @@ Problems
 - [Permutation](permutation)
 - [String compression](stringcompression)
 - [1-bit and 2-bit characters](onebitcharacters)
+- [Binary tree diameter](binarytreediameter)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)

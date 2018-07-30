@@ -54,6 +54,7 @@
     <module>wordladder</module>
     <module>slidingwindow</module>
     <module>zeromatrix</module>
+    <module>binarytreediameter</module>
   </modules>
 
   <dependencies>
