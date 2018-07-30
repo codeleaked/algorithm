@@ -14,6 +14,7 @@ Problems
 - [String compression](stringcompression)
 - [1-bit and 2-bit characters](onebitcharacters)
 - [Binary tree diameter](binarytreediameter)
+- [Two sum](twosum)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)

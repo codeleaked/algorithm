@@ -55,6 +55,8 @@
     <module>slidingwindow</module>
     <module>zeromatrix</module>
     <module>binarytreediameter</module>
+    <module>quadtree</module>
+    <module>twosum</module>
   </modules>
 
   <dependencies>
