@@ -57,6 +57,8 @@
     <module>binarytreediameter</module>
     <module>quadtree</module>
     <module>twosum</module>
+    <module>carfleet</module>
+    <module>minimumrotatedarray</module>
   </modules>
 
   <dependencies>

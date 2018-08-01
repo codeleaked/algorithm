@@ -33,3 +33,4 @@ Problems
 - [Range module](rangemodule)
 - [Word ladder](wordladder)
 - [Sliding window maximum](slidingwindow)
+- [Find minimum in rotated sorted array](minimumrotatedarray)
