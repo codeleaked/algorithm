@@ -59,6 +59,8 @@
     <module>twosum</module>
     <module>carfleet</module>
     <module>minimumrotatedarray</module>
+    <module>longestsubstringwithoutrepeating</module>
+    <module>happynumber</module>
   </modules>
 
   <dependencies>

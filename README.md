@@ -15,6 +15,7 @@ Problems
 - [1-bit and 2-bit characters](onebitcharacters)
 - [Binary tree diameter](binarytreediameter)
 - [Two sum](twosum)
+- [Happy number](happynumber)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
