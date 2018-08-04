@@ -61,6 +61,7 @@
     <module>minimumrotatedarray</module>
     <module>longestsubstringwithoutrepeating</module>
     <module>happynumber</module>
+    <module>reachanumber</module>
   </modules>
 
   <dependencies>

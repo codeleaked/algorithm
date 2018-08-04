@@ -29,6 +29,7 @@ Problems
 - [One-edit distance](oneeditdistance)
 - [Network delay time](networkdelay)
 - [Zero matrix](zeromatrix)
+- [Reach a number](reachanumber)
 
 **Hard**
 - [Range module](rangemodule)
