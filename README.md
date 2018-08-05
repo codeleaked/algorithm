@@ -36,3 +36,4 @@ Problems
 - [Word ladder](wordladder)
 - [Sliding window maximum](slidingwindow)
 - [Find minimum in rotated sorted array](minimumrotatedarray)
+- [Jump game](jumpgame)

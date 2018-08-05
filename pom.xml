@@ -62,6 +62,7 @@
     <module>longestsubstringwithoutrepeating</module>
     <module>happynumber</module>
     <module>reachanumber</module>
+    <module>jumpgame</module>
   </modules>
 
   <dependencies>
