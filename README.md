@@ -30,6 +30,7 @@ Problems
 - [Network delay time](networkdelay)
 - [Zero matrix](zeromatrix)
 - [Reach a number](reachanumber)
+- [Maximal square](maximalsquare)
 
 **Hard**
 - [Range module](rangemodule)

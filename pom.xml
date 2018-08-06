@@ -63,6 +63,7 @@
     <module>happynumber</module>
     <module>reachanumber</module>
     <module>jumpgame</module>
+    <module>maximalsquare</module>
   </modules>
 
   <dependencies>
