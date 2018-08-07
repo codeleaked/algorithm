@@ -31,6 +31,7 @@ Problems
 - [Zero matrix](zeromatrix)
 - [Reach a number](reachanumber)
 - [Maximal square](maximalsquare)
+- [Remove nth node from end of list](removenode)
 
 **Hard**
 - [Range module](rangemodule)

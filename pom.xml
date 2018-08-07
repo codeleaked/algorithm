@@ -64,6 +64,7 @@
     <module>reachanumber</module>
     <module>jumpgame</module>
     <module>maximalsquare</module>
+    <module>removenode</module>
   </modules>
 
   <dependencies>
