@@ -17,6 +17,7 @@ Problems
 - [Two sum](twosum)
 - [Happy number](happynumber)
 - [Climbing stairs](climbingstairs)
+- [Search in a binary search tree](bst)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)

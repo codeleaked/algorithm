@@ -67,6 +67,7 @@
     <module>removenode</module>
     <module>topfrequentelements</module>
     <module>climbingstairs</module>
+    <module>bst</module>
   </modules>
 
   <dependencies>
