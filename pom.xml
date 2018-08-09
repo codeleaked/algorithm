@@ -65,6 +65,8 @@
     <module>jumpgame</module>
     <module>maximalsquare</module>
     <module>removenode</module>
+    <module>topfrequentelements</module>
+    <module>climbingstairs</module>
   </modules>
 
   <dependencies>

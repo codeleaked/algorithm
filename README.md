@@ -16,6 +16,7 @@ Problems
 - [Binary tree diameter](binarytreediameter)
 - [Two sum](twosum)
 - [Happy number](happynumber)
+- [Climbing stairs](climbingstairs)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
