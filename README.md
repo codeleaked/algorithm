@@ -18,6 +18,7 @@ Problems
 - [Happy number](happynumber)
 - [Climbing stairs](climbingstairs)
 - [Search in a binary search tree](bst)
+- [Same tree](sametree)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)

@@ -68,6 +68,8 @@
     <module>topfrequentelements</module>
     <module>climbingstairs</module>
     <module>bst</module>
+    <module>maximumwidthofbinarytree</module>
+    <module>sametree</module>
   </modules>
 
   <dependencies>
