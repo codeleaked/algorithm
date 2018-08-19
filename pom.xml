@@ -70,6 +70,8 @@
     <module>bst</module>
     <module>maximumwidthofbinarytree</module>
     <module>sametree</module>
+    <module>friendcircles</module>
+    <module>ransomnote</module>
   </modules>
 
   <dependencies>
