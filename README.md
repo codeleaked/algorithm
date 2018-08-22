@@ -36,6 +36,7 @@ Problems
 - [Reach a number](reachanumber)
 - [Maximal square](maximalsquare)
 - [Remove nth node from end of list](removenode)
+- [Is subsequence?](stringsubsequence)
 
 **Hard**
 - [Range module](rangemodule)
