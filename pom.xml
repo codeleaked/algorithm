@@ -73,6 +73,7 @@
     <module>friendcircles</module>
     <module>ransomnote</module>
     <module>stringsubsequence</module>
+    <module>triangle</module>
   </modules>
 
   <dependencies>

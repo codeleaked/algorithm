@@ -37,6 +37,7 @@ Problems
 - [Maximal square](maximalsquare)
 - [Remove nth node from end of list](removenode)
 - [Is subsequence?](stringsubsequence)
+- [Triangle](triangle)
 
 **Hard**
 - [Range module](rangemodule)
