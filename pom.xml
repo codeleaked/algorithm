@@ -74,6 +74,7 @@
     <module>ransomnote</module>
     <module>stringsubsequence</module>
     <module>triangle</module>
+    <module>lemonadechange</module>
   </modules>
 
   <dependencies>

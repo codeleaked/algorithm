@@ -20,6 +20,7 @@ Problems
 - [Search in a binary search tree](bst)
 - [Same tree](sametree)
 - [Ransom note](ransomnote)
+- [Lemonade change](lemonadechange)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
