@@ -78,10 +78,8 @@ fabric.properties
 hs_err_pid*
 
 .idea/
-algorithm.iml
-jewels/jewels.iml
-parentheses/parentheses.iml
-skyline/skyline.iml
+*.iml
+**/*.iml
 skyline/src/main/resources/
 skyline/target/
 target/
