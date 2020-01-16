@@ -34,6 +34,7 @@
   </build>
 
   <modules>
+    <module>addtwonumbers</module>
     <module>jewels</module>
     <module>parentheses</module>
     <module>skyline</module>

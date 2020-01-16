@@ -1,6 +1,7 @@
 Problems
 --------
 **Easy**
+- [Add two numbers](addtwonumbers)
 - [Valid parentheses](parentheses)
 - [Jewels and stones](jewels)
 - [Unique Morse code words](morse)
