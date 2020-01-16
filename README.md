@@ -23,6 +23,7 @@ Problems
 - [Ransom note](ransomnote)
 - [Lemonade change](lemonadechange)
 - [Movies on flight](moviesonflight)
+- [Longest substring without repeating characters](longestsubstringwithoutrepeating)
 
 **Medium**
 - [Maximum Binary Tree](maxbinarytree)
