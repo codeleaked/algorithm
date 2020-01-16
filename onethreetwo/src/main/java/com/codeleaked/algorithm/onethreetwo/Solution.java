@@ -7,7 +7,6 @@ public class Solution {
         int smallest = nums[0];
 
         int[] largest = new int[nums.length];
-        for (int i = 0; i )
 
 
         for (int i = 1; i < nums.length - 1; ++i) {

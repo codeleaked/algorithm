@@ -6,6 +6,6 @@ import com.codeleaked.algorithm.common.tree.TreeNode;
 public class Solution {
 
     public int widthOfBinaryTree(TreeNode root) {
-
+        return 0;
     }
 }
