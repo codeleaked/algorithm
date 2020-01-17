@@ -88,6 +88,7 @@
     <module>triangle</module>
     <module>lemonadechange</module>
     <module>moviesonflight</module>
+    <module>trappingrainwater</module>
   </modules>
 
   <dependencies>
