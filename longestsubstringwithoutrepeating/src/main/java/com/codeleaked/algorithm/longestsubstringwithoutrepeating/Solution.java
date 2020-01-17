@@ -1,33 +1,28 @@
 package com.codeleaked.algorithm.longestsubstringwithoutrepeating;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class Solution {
 
     public int lengthOfLongestSubstring(String s) {
-        int[] maxLength = new int[s.length()];
-        int[] pos = new int[255];
-        for (int i = 0; i < 255; ++i) {
-            pos[i] = -1;
-        }
-        for (int i = 0; i < s.length(); ++i) {
-            int lastPos = pos[s.charAt(i)];
+        int maxLength = 0;
+        int i = 0;
+        int j = 0;
+        Set<Character> found = new HashSet<>();
 
-            int max = i - lastPos;
-            for (int j = i - 1; j > lastPos; --j) {
-                if (max > maxLength[j] + i - j) {
-                    max = maxLength[j] + i - j;
-                }
-            }
-            maxLength[i] = max;
-            pos[s.charAt(i)] = i;
-        }
-
-        int max = 0;
-        for (int i = 0; i < s.length(); ++i) {
-            if (max < maxLength[i]) {
-                max = maxLength[i];
+        while (i < s.length() && j < s.length()) {
+            if (!found.contains(s.charAt(j))) {
+                maxLength = Math.max(maxLength, j - i + 1);
+                found.add(s.charAt(j));
+                ++j;
+            } else {
+                found.remove(s.charAt(i));
+                ++i;
             }
         }
-        return max;
+
+        return maxLength;
     }
 
 }
