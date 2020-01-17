@@ -89,6 +89,7 @@
     <module>lemonadechange</module>
     <module>moviesonflight</module>
     <module>trappingrainwater</module>
+    <module>lrucache</module>
   </modules>
 
   <dependencies>
