@@ -23,9 +23,9 @@ Problems
 - [Ransom note](ransomnote)
 - [Lemonade change](lemonadechange)
 - [Movies on flight](moviesonflight)
-- [Longest substring without repeating characters](longestsubstringwithoutrepeating)
 
 **Medium**
+- [Longest substring without repeating characters](longestsubstringwithoutrepeating)
 - [Maximum Binary Tree](maxbinarytree)
 - [Max increase to keep city skyline](skyline)
 - [Encode and decode TinyURL](tinyurl)
