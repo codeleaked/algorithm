@@ -50,6 +50,7 @@
     <module>jewels</module>
     <module>jumpgame</module>
     <module>lemonadechange</module>
+    <module>longestpalindromicsubstring</module>
     <module>longestsubstringwithoutrepeating</module>
     <module>lrucache</module>
     <module>matrixnearestdistance</module>
