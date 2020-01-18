@@ -71,6 +71,7 @@
     <module>onethreetwo</module>
     <module>parentheses</module>
     <module>permutation</module>
+    <module>productexceptself</module>
     <module>quadtree</module>
     <module>rangemodule</module>
     <module>ransomnote</module>
