@@ -90,6 +90,7 @@
     <module>moviesonflight</module>
     <module>trappingrainwater</module>
     <module>lrucache</module>
+    <module>numberofislands</module>
   </modules>
 
   <dependencies>
