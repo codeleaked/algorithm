@@ -42,6 +42,7 @@
     <module>carfleet</module>
     <module>climbingstairs</module>
     <module>common</module>
+    <module>criticalconnections</module>
     <module>flippingimage</module>
     <module>friendcircles</module>
     <module>hammingdistance</module>
