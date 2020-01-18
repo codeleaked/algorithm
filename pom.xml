@@ -35,62 +35,62 @@
 
   <modules>
     <module>addtwonumbers</module>
-    <module>jewels</module>
-    <module>parentheses</module>
-    <module>skyline</module>
-    <module>tinyurl</module>
-    <module>morse</module>
-    <module>maxbinarytree</module>
-    <module>mountainpeak</module>
-    <module>flippingimage</module>
-    <module>hammingdistance</module>
-    <module>routecircle</module>
-    <module>binarytreepruning</module>
-    <module>mergetrees</module>
-    <module>common</module>
     <module>allpaths</module>
-    <module>selfdividing</module>
-    <module>transposematrix</module>
-    <module>matrixnearestdistance</module>
-    <module>uniquestring</module>
-    <module>permutation</module>
-    <module>stringcompression</module>
-    <module>onebitcharacters</module>
-    <module>onethreetwo</module>
-    <module>twokeys</module>
-    <module>threesum</module>
-    <module>sortedmatrix</module>
-    <module>oneeditdistance</module>
-    <module>networkdelay</module>
-    <module>rangemodule</module>
-    <module>wordladder</module>
-    <module>slidingwindow</module>
-    <module>zeromatrix</module>
     <module>binarytreediameter</module>
-    <module>quadtree</module>
-    <module>twosum</module>
-    <module>carfleet</module>
-    <module>minimumrotatedarray</module>
-    <module>longestsubstringwithoutrepeating</module>
-    <module>happynumber</module>
-    <module>reachanumber</module>
-    <module>jumpgame</module>
-    <module>maximalsquare</module>
-    <module>removenode</module>
-    <module>topfrequentelements</module>
-    <module>climbingstairs</module>
+    <module>binarytreepruning</module>
     <module>bst</module>
-    <module>maximumwidthofbinarytree</module>
-    <module>sametree</module>
+    <module>carfleet</module>
+    <module>climbingstairs</module>
+    <module>common</module>
+    <module>flippingimage</module>
     <module>friendcircles</module>
-    <module>ransomnote</module>
-    <module>stringsubsequence</module>
-    <module>triangle</module>
+    <module>hammingdistance</module>
+    <module>happynumber</module>
+    <module>jewels</module>
+    <module>jumpgame</module>
     <module>lemonadechange</module>
-    <module>moviesonflight</module>
-    <module>trappingrainwater</module>
+    <module>longestsubstringwithoutrepeating</module>
     <module>lrucache</module>
+    <module>matrixnearestdistance</module>
+    <module>maxbinarytree</module>
+    <module>maximalsquare</module>
+    <module>maximumwidthofbinarytree</module>
+    <module>mergetrees</module>
+    <module>minimumrotatedarray</module>
+    <module>morse</module>
+    <module>mountainpeak</module>
+    <module>moviesonflight</module>
+    <module>networkdelay</module>
     <module>numberofislands</module>
+    <module>onebitcharacters</module>
+    <module>oneeditdistance</module>
+    <module>onethreetwo</module>
+    <module>parentheses</module>
+    <module>permutation</module>
+    <module>quadtree</module>
+    <module>rangemodule</module>
+    <module>ransomnote</module>
+    <module>reachanumber</module>
+    <module>removenode</module>
+    <module>routecircle</module>
+    <module>sametree</module>
+    <module>selfdividing</module>
+    <module>skyline</module>
+    <module>slidingwindow</module>
+    <module>sortedmatrix</module>
+    <module>stringcompression</module>
+    <module>stringsubsequence</module>
+    <module>threesum</module>
+    <module>tinyurl</module>
+    <module>topfrequentelements</module>
+    <module>transposematrix</module>
+    <module>trappingrainwater</module>
+    <module>triangle</module>
+    <module>twokeys</module>
+    <module>twosum</module>
+    <module>uniquestring</module>
+    <module>wordladder</module>
+    <module>zeromatrix</module>
   </modules>
 
   <dependencies>
