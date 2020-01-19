@@ -78,6 +78,7 @@
     <module>ransomnote</module>
     <module>reachanumber</module>
     <module>removenode</module>
+    <module>reorderdatainlogfiles</module>
     <module>routecircle</module>
     <module>sametree</module>
     <module>selfdividing</module>
