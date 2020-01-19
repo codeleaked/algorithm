@@ -49,6 +49,7 @@
     <module>happynumber</module>
     <module>jewels</module>
     <module>jumpgame</module>
+    <module>kclosestpoints</module>
     <module>lemonadechange</module>
     <module>longestpalindromicsubstring</module>
     <module>longestsubstringwithoutrepeating</module>
