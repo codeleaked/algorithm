@@ -94,6 +94,7 @@
     <module>triangle</module>
     <module>twokeys</module>
     <module>twosum</module>
+    <module>uniquepaths</module>
     <module>uniquestring</module>
     <module>wordladder</module>
     <module>zeromatrix</module>
