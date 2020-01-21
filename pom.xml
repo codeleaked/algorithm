@@ -61,6 +61,7 @@
     <module>maximalsquare</module>
     <module>maximumsubarray</module>
     <module>maximumwidthofbinarytree</module>
+    <module>meetingrooms</module>
     <module>mergeksortedlists</module>
     <module>mergetrees</module>
     <module>mergetwosortedlists</module>
