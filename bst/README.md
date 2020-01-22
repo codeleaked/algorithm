@@ -27,3 +27,5 @@ You should return this subtree:
 In the example above, if we want to search the value `5`, since there is no node with value `5`, we should return `NULL`.
 
 Note that an empty tree is represented by `NULL`, therefore you would see the expected output (serialized tree format) as `[]`, not `null`.
+
+https://leetcode.com/problems/search-in-a-binary-search-tree/

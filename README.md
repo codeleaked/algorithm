@@ -1,9 +1,11 @@
 Problems
 --------
 **Easy**
-- [1-bit and 2-bit characters](onebitcharacters)
-- [Add two numbers](addtwonumbers)
 - [Binary tree diameter](binarytreediameter)
+- [Search in a binary search tree](bst)
+
+
+- [1-bit and 2-bit characters](onebitcharacters)
 - [Climbing stairs](climbingstairs)
 - [Flipping an image](flippingimage)
 - [Hamming distance](hammingdistance)
@@ -17,7 +19,6 @@ Problems
 - [Permutation](permutation)
 - [Ransom note](ransomnote)
 - [Same tree](sametree)
-- [Search in a binary search tree](bst)
 - [String compression](stringcompression)
 - [Two sum](twosum)
 - [Unique Morse code words](morse)
@@ -25,10 +26,13 @@ Problems
 - [Valid parentheses](parentheses)
 
 **Medium**
-- [01 matrix](matrixnearestdistance)
-- [2-key keyboard](twokeys)
+- [Add two numbers](addtwonumbers)
 - [All paths from source to target](allpaths)
 - [Binary tree pruning](binarytreepruning)
+
+
+- [01 matrix](matrixnearestdistance)
+- [2-key keyboard](twokeys)
 - [Encode and decode TinyURL](tinyurl)
 - [Is subsequence?](stringsubsequence)
 - [Kth smallest element in a sorted matrix](sortedmatrix)

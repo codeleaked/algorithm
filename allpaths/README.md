@@ -20,3 +20,5 @@ There are two paths: 0 -> 1 -> 3 and 0 -> 2 -> 3.
 **Note:**
 - The number of nodes in the graph will be in the range `[2, 15]`.
 - You can print different paths in any order, but you should keep the order of nodes inside one path.
+
+https://leetcode.com/problems/all-paths-from-source-to-target/
