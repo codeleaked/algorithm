@@ -9,7 +9,7 @@ public class Evaluation {
     private Solution solution = new Solution();
 
     @Test
-    public void test() {
+    public void test1() {
         int target = 12;
         int[] position = new int[]{10, 8, 0, 5, 3};
         int[] speed = new int[]{2, 4, 1, 1, 3};
