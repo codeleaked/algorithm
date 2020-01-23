@@ -9,7 +9,10 @@ The graph is given as follows:  the nodes are `0, 1, ..., graph.length - 1`.  `g
 ```
 Input: [[1,2], [3], [3], []] 
 Output: [[0,1,3],[0,2,3]] 
-Explanation: The graph looks like this:
+```
+**Explanation:** 
+The graph looks like this:
+```
 0--->1
 |    |
 v    v
