@@ -86,8 +86,9 @@
     <module>reorderdatainlogfiles</module>
     <module>routecircle</module>
     <module>sametree</module>
-    <module>serializedeserializebinarytree</module>
+    <module>search2dmatrix</module>
     <module>selfdividing</module>
+    <module>serializedeserializebinarytree</module>
     <module>skyline</module>
     <module>slidingwindow</module>
     <module>sortedmatrix</module>

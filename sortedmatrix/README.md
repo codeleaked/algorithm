@@ -9,7 +9,7 @@ Note that it is the `kth` smallest element in the sorted order, not the `kth` di
 ```
 matrix = [
    [ 1,  5,  9],
-   [10, 11, 13],
+   [10, 11, 13],s
    [12, 13, 15]
 ],
 k = 8,
