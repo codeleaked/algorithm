@@ -46,6 +46,7 @@
     <module>criticalconnections</module>
     <module>flippingimage</module>
     <module>friendcircles</module>
+    <module>gameoflife</module>
     <module>hammingdistance</module>
     <module>happynumber</module>
     <module>integertoenglishwords</module>
@@ -67,6 +68,7 @@
     <module>mergetwosortedlists</module>
     <module>minimumdominorotations</module>
     <module>minimumrotatedarray</module>
+    <module>minimumwindowsubstring</module>
     <module>morse</module>
     <module>mountainpeak</module>
     <module>moviesonflight</module>
